@@ -1,0 +1,4 @@
+name: ThePlayerShuffler
+version: '${project.version}'
+main: me.flyingtaco725.theplayershuffler.ThePlayerShuffler
+api-version: '1.21'

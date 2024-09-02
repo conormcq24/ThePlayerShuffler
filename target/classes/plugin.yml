@@ -1,0 +1,4 @@
+name: ThePlayerShuffler
+version: '1.0-SNAPSHOT'
+main: me.flyingtaco725.theplayershuffler.ThePlayerShuffler
+api-version: '1.21'

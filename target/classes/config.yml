@@ -1,0 +1,4 @@
+# this variable allows you to choose the amount of time
+# that will take place between teleports, by default its
+# 30 seconds
+teleport-interval: 30
